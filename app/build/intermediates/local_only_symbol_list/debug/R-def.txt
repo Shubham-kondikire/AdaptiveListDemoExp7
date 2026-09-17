@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color background
+color card_background
+color primary
+color primary_dark
+color text_subtitle
+color text_title
+color white
+drawable ic_apple
+drawable ic_banana
+drawable ic_grape
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_mango
+drawable ic_orange
+drawable ic_watermelon
+id dialogImage
+id dialogTitle
+id imageView
+id listView
+id textFooter
+id textPrice
+id textSubtitle
+id textTitle
+id toolbar
+layout activity_main
+layout dialog_image
+layout list_item_row
+mipmap ic_launcher
+string app_name
+string toolbar_title
+style Theme.AdaptiveListDemo
