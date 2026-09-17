@@ -735,21 +735,7 @@ screenshots/
 └── test_case_3_usn.png
 ```
 
-### Main Application
 
-![Experiment 7 Output](screenshots/output.png)
-
-### Test Case 1 — List Display
-
-![Test Case 1](screenshots/test_case_1_launch.png)
-
-### Test Case 2 — Item Click
-
-![Test Case 2](screenshots/test_case_2_click.png)
-
-### Test Case 3 — Student Information
-
-![Test Case 3](screenshots/test_case_3_usn.png)
 
 ---
 
